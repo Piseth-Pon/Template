@@ -1,0 +1,46 @@
+body {
+    background-color: antiquewhite;
+    color: blue;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    color: brown;
+}
+
+ol {
+    list-style-type: upper-alpha;
+}
+
+ol li {
+    color: green;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+    cursor: pointer;
+}
+
+a:hover {
+    font-size: 32px;
+    color: red;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+img:hover {
+    width: 400px;
+    height: 400px;
+}
+
+iframe {
+    width: 100%;
+}
